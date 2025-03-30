@@ -1,0 +1,10 @@
+#!/bin/sh
+set -e
+
+# 设置可执行权限
+chmod 755 /opt/kyrin-activator/x86_64.run
+chmod 755 /opt/kyrin-activator/aarch64.run
+chmod 755 /usr/bin/kyrin-activator
+
+# 更新图标缓存
+gtk-update-icon-cache -qt /usr/share/icons/hicolor || true

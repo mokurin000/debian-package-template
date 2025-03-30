@@ -1,0 +1,7 @@
+Package: kyrin-activator
+Version: 1.2
+Architecture: all
+Maintainer: No Name <noname@example.com>
+Description: Universal system activator for Kyrin OS
+ Cross-architecture activation tool for Kyrin operating system.
+ Supports both x86_64 and aarch64 architectures.

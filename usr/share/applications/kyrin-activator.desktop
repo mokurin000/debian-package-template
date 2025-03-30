@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=License
+Comment=工具
+Exec=kyrin-activator
+Icon=kyrin-activator
+Terminal=false
+Type=Application
+Categories=Utility;System;
+StartupNotify=true
+
